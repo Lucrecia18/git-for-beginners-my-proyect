@@ -1,7 +1,7 @@
 Welcome to my proyect
 
 <<<<<<< HEAD
-Author: Lucrecia{
+Author: Lucrecia Concatti{
 
 Hello
 =======
