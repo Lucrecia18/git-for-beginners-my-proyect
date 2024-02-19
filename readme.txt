@@ -1,13 +1,8 @@
 Welcome to my proyect
 
-<<<<<<< HEAD
-Author: Lucrecia Concatti{
-
-Hello
-=======
-Author: Lucrecia
+Author: Lucrecia Concatti
+Instagram: @lucreciaconcatti
 
 Hello
 
 Bye!!!
->>>>>>> NuevaRama
